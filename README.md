@@ -2,6 +2,8 @@
 
 The "CodePixelate" is a powerful Visual Studio Code (VS Code) extension that seamlessly integrates with the ray.so platform to transform your code into visually appealing images. Whether you want to **share code snippets on social media**, **include them in documentation**, or **create eye-catching presentations**, this extension simplifies the process by converting your code into beautiful, shareable images.
 
+[Download😀](https://marketplace.visualstudio.com/items?itemName=CodePixelate3105.codepixelate&ssr=false#overview)
+
 ## Features
 
 **Ray.so Integration:** Harness the power of Ray.so's code-to-image conversion capabilities directly within your favorite code editor. The extension streamlines the process of generating code images without leaving the VS Code environment.
