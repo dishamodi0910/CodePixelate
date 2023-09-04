@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "codepixelate.helloWorld",
-        "title": "Hello World"
+        "title": "CodePixelate"
       }
     ]
   },
