@@ -1,65 +1,26 @@
-# codepixelate README
+# CodePixelate
 
-This is the README for your extension "codepixelate". After writing up a brief description, we recommend including the following sections.
+The "CodePixelate" is a powerful Visual Studio Code (VS Code) extension that seamlessly integrates with the ray.so platform to transform your code into visually appealing images. Whether you want to **share code snippets on social media**, **include them in documentation**, or **create eye-catching presentations**, this extension simplifies the process by converting your code into beautiful, shareable images.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+**Ray.so Integration:** Harness the power of Ray.so's code-to-image conversion capabilities directly within your favorite code editor. The extension streamlines the process of generating code images without leaving the VS Code environment.
 
-For example if there is an image subfolder under your extension project workspace:
+**Code Beautification:** The extension automatically formats your code for optimal readability before creating the image, ensuring that your code looks clean and organized.
 
-\!\[feature X\]\(images/feature-x.png\)
+**Customization Options:** Tailor the appearance of your code images to suit your preferences. Adjust fonts, themes, background colors, and syntax highlighting to make your code images visually appealing and on-brand.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+**Export and Share:** Easily export the generated code images to your local machine or share them directly on social media platforms, in presentations, or within documentation. Promote your code snippets effectively with captivating visuals.
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+- Install the extension from Visual Studio Code Marketplace.
+- Select the code snippet you want to convert to an image.
+- Use ``ctrl+shift+p`` and select the option CodePixelate
+- Here you go!!!
 
 ---
 
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Elevate your code-sharing game with the "Code Pixelate" extension, simplifying the process of creating visually stunning code images using the power of Ray.so. Transform your code snippets into eye-catching assets that captivate your audience and enhance your documentation, presentations, and social media posts.
 
 **Enjoy!**
