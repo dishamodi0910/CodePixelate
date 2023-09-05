@@ -3,7 +3,7 @@
   "displayName": "CodePixelate",
   "description": "an aesthetic way to express your text into pixels",
   "publisher": "CodePixelate3105",
-  "icon": "CODEPIXELATE.png",
+  "icon": "codepixelate_logo.png",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.81.0"
