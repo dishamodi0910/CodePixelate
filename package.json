@@ -2,6 +2,8 @@
   "name": "codepixelate",
   "displayName": "CodePixelate",
   "description": "an aesthetic way to express your text into pixels",
+  "publisher": "CodePixelate3105",
+  "icon" : "CODEPIXELATE.png"
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
